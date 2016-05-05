@@ -1,3 +1,1 @@
-git is a version control system
-is it?
-yes
+Util is convenient code when we often need some litter tools.
