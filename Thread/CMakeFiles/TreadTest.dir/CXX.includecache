@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/Shared/utilgit/Thread/main.cc
+threading.h
+/mnt/hgfs/Shared/utilgit/Thread/threading.h
+stdio.h
+-
+functional
+-
+
+/mnt/hgfs/Shared/utilgit/Thread/threading.h
+atomic
+-
+functional
+-
+future
+-
+queue
+-
+
