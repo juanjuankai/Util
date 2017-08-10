@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/Shared/utilgit/UtilTime/main.cpp
+iostream
+-
+timer.h
+/mnt/hgfs/Shared/utilgit/UtilTime/timer.h
+
+/mnt/hgfs/Shared/utilgit/UtilTime/timer.h
+chrono
+-
+iomanip
+-
+iostream
+-
+
