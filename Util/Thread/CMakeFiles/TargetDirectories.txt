@@ -1,1 +1,0 @@
-/mnt/hgfs/Shared/utilgit/Thread/CMakeFiles/TreadTest.dir

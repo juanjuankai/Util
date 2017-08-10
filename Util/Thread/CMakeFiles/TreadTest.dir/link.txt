@@ -1,1 +1,0 @@
-/usr/bin/c++    -lpthread -pthread -Wl,-no-as-needed -std=c++11    CMakeFiles/TreadTest.dir/main.cc.o CMakeFiles/TreadTest.dir/threading.cc.o  -o TreadTest -rdynamic 
